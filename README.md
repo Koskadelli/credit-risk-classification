@@ -8,7 +8,7 @@ In the files and code, a value of 0 in the “loan_status” column means that t
 
 # Credit Analysis Report
 ### Classification Report
-![Classification Report](https://github.com/koskadelli/credit-risk-classification/Classification_Report.png)
+![Classification Report](Classification_Report.png)
 
 ### Analysis Overview
 The purpose of this analysis is to use existing data to create a model that will predict loan risk for future borrowers, specifically flagging high-risk applicants. Data classes used to predict this include loan size, interest rate, borrower incomine, debt to income ratio, number of accounts, derogatory marks, and total debt. Applicants are given a loan status of 0 (indicidating a healthy loan) or a 1 (indicating a high-risk one). 
